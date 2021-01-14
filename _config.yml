@@ -21,9 +21,9 @@ avatar: https://github.com/ghis22130/ghis22130.github.io/blob/master/images/myPh
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: About
-    url: /
+    url: /about
   - name: Blog
-    url: /blog
+    url: /
   - name: Archive
     url: /archive
   - name: Tags

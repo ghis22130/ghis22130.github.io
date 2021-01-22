@@ -2,10 +2,9 @@
 layout: post
 title: 프로그래머스 2018 KAKAO BLIND RECRUITMENT [3차]N진수 게임
 comments: true
-tags: [Swift,Apple,Guideline]
+tags: [Argorithm, Python]
 category: [Python]
 ---
-# 프로그래머스 2018 KAKAO BLIND RECRUITMENT [3차]N진수 게임
 
 ## 문제 설명
 튜브가 활동하는 코딩 동아리에서는 전통적으로 해오는 게임이 있다. 이 게임은 여러 사람이 둥글게 앉아서 숫자를 하나씩 차례대로 말하는 게임인데, 규칙은 다음과 같다.

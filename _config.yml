@@ -24,7 +24,6 @@ navbar-links:
   etc:
     - CS: "/category/ComputerScience"
     - Life: "/category/Life"
-    - Pattern : "https://github.com/JCSooHwanCho/DesignPatternCatalogue"
 
 # --- Logo --- #
 

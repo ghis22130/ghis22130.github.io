@@ -1,4 +1,10 @@
-# 프로그래머스 2018 KAKAO BLIND RECRUITMENT [3차]파일명 문제
+---
+layout: post
+title: 프로그래머스 2018 KAKAO BLIND RECRUITMENT [3차]파일명 문제
+comments: true
+tags: [Argorithm, Python]
+category: [Python]
+---
 
 ## 문제 설명
 세 차례의 코딩 테스트와 두 차례의 면접이라는 기나긴 블라인드 공채를 무사히 통과해 카카오에 입사한 무지는 파일 저장소 서버 관리를 맡게 되었다.

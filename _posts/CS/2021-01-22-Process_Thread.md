@@ -3,7 +3,7 @@ layout: post
 title: Process 와 Thread
 comments: true
 tags: [OS, Process, Thread]
-category: [CS]
+category: [ComputerScience]
 ---
 
 대학교 운영체제 시간에 배웠던 개념들이라 다시 접하는데 크게 거부감이 들지는 않았지만 오랜만에 다시 보는 용어들에 어렴풋한 기억들로 정확한 정의가 떠오르지 않았다.

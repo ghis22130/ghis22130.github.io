@@ -20,7 +20,7 @@ navbar-links:
     - iOS: "/category/iOS"
   Algorithm: 
     - Python: "/category/Python"
-    - Swift: "/category/aSwift"
+    - Swift: "/category/Swift"
   etc:
     - CS: "/category/ComputerScience"
     - Life: "/category/Life"

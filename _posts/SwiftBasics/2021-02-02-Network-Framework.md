@@ -146,7 +146,7 @@ let data = """
 
 개밸자 모드에서 본 것은 편의를 위해 `\r\n`이 삽입 되어있었던것이다. 데이터 가공을 하기 위해 data를 건드려주기로 했다.
 
-<p align = "center"><img src = "https://github.com/ghis22130/ghis22130.github.io/blob/main/assets/img/Swift_img/NWF04.png?raw=true" width = "80%></p>
+<p align = "center"><img src = "https://github.com/ghis22130/ghis22130.github.io/blob/main/assets/img/Swift_img/NWF04.png?raw=true" width = "80%"></p>
 
 *출처 : JK*
 

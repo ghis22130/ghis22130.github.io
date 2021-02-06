@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 프로그래머스_2018 KAKAO BLIND RECRUITMENT_[1차] 캐시
+title: 프로그래머스 2018 KAKAO BLIND RECRUITMENT [1차] 캐시
 comments: true
 tags: [Argorithm, Python]
 category: [Python]

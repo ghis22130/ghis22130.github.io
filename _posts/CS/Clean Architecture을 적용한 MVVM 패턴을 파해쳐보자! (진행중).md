@@ -1,10 +1,6 @@
----
-layout: post
-title: Clean Architecture을 적용한 MVVM 패턴을 파해쳐보자! (진행중)
-comments: true
-tags: [iOS,XCode]
-category: [iOS]
----
+# Clean Architecture을 적용한 MVVM 패턴을 파해쳐보자! (진행중)
+
+
 
 MVC 패턴을 적용하여 개발하다 보면 Model, View, Controller 셋 중에 어디에 넣어야 할 지 애매한(?) 상황이 꽤 자주 발생했는데요! 
 
@@ -27,7 +23,6 @@ MVC 패턴을 적용하여 개발하다 보면 Model, View, Controller 셋 중�
 <p align = "center">
   <img src = https://github.com/kudoleh/iOS-Clean-Architecture-MVVM/raw/master/README_FILES/CleanArchitectureDependencies.png?raw=true width = "80%"
 </p>
-
 
 위 이미지에는 Presentation, Domain, Data 크게 세가지 영역으로 표시했지만 부가적으로 앱의 셋팅과 흐름을 담당하는 `Application`, 네트워크와 관련된 객체들을 가지는 `Infrastructure` 가 존재합니다.
 
@@ -174,12 +169,6 @@ func makeMoviesSceneDIContainer() -> MoviesSceneDIContainer { }
 저건 뭐하는거지
 
 <p align = "center"><img src = "https://github.com/ghis22130/ghis22130.github.io/blob/main/assets/img/iOS_img/MVVM-MoviesSearchFlowCoordinator03.png?raw=true"></p>
-
-
-
-
-
-
 
 
 

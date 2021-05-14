@@ -82,7 +82,6 @@
 /*project class name*/
 .highlight .kt {
   color: #9EF1DD;
-  font-weight: bold;
 }
 
 .highlight .kn {
@@ -120,6 +119,7 @@
 }
 .highlight .sb {
   color: #FF8170;
+  font-style:
 }
 .highlight .sc {
   color: #FF8170;
@@ -168,7 +168,7 @@
 }
 .highlight .nf {
   color: #78C2B3;
-  font-weight: bold;
+font-family: 'Roboto Mono', monospace;
 }
 .highlight .no {
   color: #66d9ef;

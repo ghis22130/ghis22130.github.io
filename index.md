@@ -16,7 +16,7 @@ subtitle: 멋있는 개발자가 되기 위해 씨를 뿌리는 개인적인 공
 ## Contact
 
 - **Email**  ghis22130@naver.com
-- **Github**  [github.com/ghis22130](github.com/ghis22130)
+- **Github**  [github.com/ghis22130](https://github.com/ghis22130)
 - **Blog**  [ghis22130.github.io](ghis22130.github.io)
 
 &nbsp;

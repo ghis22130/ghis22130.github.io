@@ -100,9 +100,6 @@ suspended 상태가 되기 전 중요한 데이터를 저장하는 등 종료하
 따로 호출되는 메소드는 없다.
 
 
-
-
-
 ---
 
 [참고](https://fomaios.tistory.com/entry/%EC%95%B1-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0App-LifeCycle-1)

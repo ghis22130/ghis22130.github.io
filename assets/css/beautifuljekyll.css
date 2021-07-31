@@ -4,6 +4,13 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+@font-face {
+  font-family: 'RIDIBatang';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* --- General --- */
 
 html {
@@ -12,7 +19,7 @@ html {
 }
 
 body {
-  font-family: 'Nanum Gothic';
+  font-family: 'RIDIBatang';
   font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;

@@ -22,7 +22,7 @@ subtitle: 멋있는 개발자가 되기 위해 씨를 뿌리는 개인적인 공
 &nbsp;
 
 ## Education
-**세종대학교 소프트웨어학과**       　 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    * 세종대학교 제9회 SW, AI융합 해커톤 장려상 수상  &nbsp;👉 [저장소](https://github.com/ghis22130/Hackerthon_2020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015.02 ~        　 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;     * 세종대학교 제9회 창의설계경진대회 장려상 수상 &nbsp;&nbsp;&nbsp;👉 [저장소](https://github.com/ghis22130/Capstone_20-1)
+**세종대학교 소프트웨어학과**       　 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    * 세종대학교 제9회 SW, AI융합 해커톤 장려상 수상  &nbsp;👉 [저장소](https://github.com/ghis22130/Hackerthon_2020)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015.02 ~        　 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;     * 세종대학교 제9회 창의설계경진대회 장려상 수상 &nbsp;&nbsp;&nbsp;👉 [저장소](https://github.com/ghis22130/Capstone_20-1)
 
 &nbsp;
 
